@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# React Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+A React application that tests out the various apps, charts and tables from Syncfusion. The application also has the ability to switch the theme color, between a few set choices, and a light/dark mode.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Useage](#useage)
+- [Technologies](#technologies)
+- [License](#license)
+- [Contact](#contact)
+- [Links](#links)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Useage
 
-### `npm test`
+Visit [Shoppy](https://react-dashboard-rust.vercel.app/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Desktop layout
 
-### `npm run build`
+![Home Page Desktop](./public/images/desktop-layout.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The Home page has various anaylytics regarding a fictional ecommerce site. Click on the side menu to go to the various pages, apps, and charts.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Pages example
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Orders](./public/images/orders.jpg)
 
-### `npm run eject`
+### Apps example
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Calendar](./public/images/calendar.jpg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Charts example (dark mode)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Color Mapping](./public/images/color-mapping-dark.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Across the top is a navbar bar that allows you to open your cart, a chat, notifications, and a user profile.
 
-## Learn More
+### Shopping Cart
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Cart](./public/images/cart.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Messages
 
-### Code Splitting
+![Messages](./public/images/messages.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### User Profile
 
-### Analyzing the Bundle Size
+![Profile](./public/images/user.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Technologies
 
-### Making a Progressive Web App
+React, JavaScript, React-Router, Syncfusion, HTML, TailwindCSS, and Vercel.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## License
 
-### Advanced Configuration
+Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Contact
 
-### Deployment
+Email: timmartin13@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Github: [TimMartin13](https://github.com/TimMartin13)
 
-### `npm run build` fails to minify
+## Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Deployed link: https://react-dashboard-rust.vercel.app/
+
+Repository link: https://github.com/TimMartin13/react-dashboard
